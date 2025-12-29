@@ -1,0 +1,6 @@
+# 忽略所有文件
+*
+# 但不忽略您想保留的特定文件
+!resume.pdf
+# 不忽略 .gitignore
+!.gitignore
