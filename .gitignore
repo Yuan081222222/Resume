@@ -2,5 +2,6 @@
 *
 # 但不忽略您想保留的特定文件
 !resume.pdf
+!resume.tex
 # 不忽略 .gitignore
 !.gitignore
